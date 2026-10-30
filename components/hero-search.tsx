@@ -27,13 +27,13 @@ export function HeroSearch({ filters }: { filters: PropertyFilters }) {
         <div className="max-w-3xl">
           <p className="mb-4 inline-flex items-center gap-2 rounded-full border border-primary-foreground/20 bg-primary-foreground/10 px-3 py-1 text-xs font-medium text-primary-foreground">
             <span className="size-1.5 rounded-full bg-accent" aria-hidden="true" />
-            {"South Africa's commercial & residential marketplace"}
+            {"The world's fairest commercial and residential marketplace"}
           </p>
           <h1 className="text-balance text-4xl font-semibold tracking-tight text-primary-foreground sm:text-5xl lg:text-6xl">
-            Find space that moves your business and your life forward.
+            Find space that moves your life forward.
           </h1>
           <p className="mt-5 max-w-2xl text-pretty text-base leading-relaxed text-primary-foreground/80 sm:text-lg">
-            Search offices, warehouses, retail units and homes across Gauteng, the Western Cape and KwaZulu-Natal —
+            Search offices, warehouses, retail units and homes across South Africa —
             listed by verified Imelio brokers.
           </p>
         </div>
