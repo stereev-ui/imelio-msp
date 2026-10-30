@@ -33,8 +33,7 @@ export function HeroSearch({ filters }: { filters: PropertyFilters }) {
             Find space that moves your life forward.
           </h1>
           <p className="mt-5 max-w-2xl text-pretty text-base leading-relaxed text-primary-foreground/80 sm:text-lg">
-            Search offices, warehouses, retail units and homes across South Africa —
-            listed by verified Imelio brokers.
+            {'Search offices, warehouses, retail units and homes across South Africa — listed by verified Imelio brokers.'}
           </p>
         </div>
 
